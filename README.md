@@ -1,4 +1,4 @@
-{ "
+{"~~~~~~~~~~~~~~~ WELCOME TO MY PROFILE ~~~~~~~~~~~~~~~"}
 - 👋 Hi, I’m Milton Peluffo, i’m 22 years old
 - 👀 I’m mainly interested in backend development using Java
 - 💻 I build desktop applications with Java (Swing and Maven)
@@ -9,4 +9,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love retro games, indie game development, digital drawing, and pixel art
 - 📚 B2 in English, i enjoy learning the language and I’m constantly improving
-" }
