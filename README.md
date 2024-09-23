@@ -7,5 +7,5 @@
 - 💞️ Open to collaborating on Java or web front-end projects
 - 📫 Reach me at: milton.peluffoc@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love retro games, indie game development, digital drawing, and pixel art
+- ⚡ Fun fact: I love indie game development and digital drawing.
 - 📚 B2 in English, i enjoy learning the language and I’m constantly improving
