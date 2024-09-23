@@ -1,4 +1,5 @@
-{ "- 👋 Hi, I’m Milton Peluffo, i’m 22 years old
+{ "
+- 👋 Hi, I’m Milton Peluffo, i’m 22 years old
 - 👀 I’m mainly interested in backend development using Java
 - 💻 I build desktop applications with Java (Swing and Maven)
 - 🌐 I also enjoy front-end development using HTML, CSS, and some JavaScript
