@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Milton-Peluffo
-- 👀 I’m interested in desktop software developer
-- 🌱 I’m currently learning Java SpringBoot and leargning about databases
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
-<!---
-Milton-Peluffo/Milton-Peluffo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{ "
+👋 Hi, I’m Milton Peluffo, i’m 22 years old
+👀 I’m mainly interested in backend development using Java
+💻 I build desktop applications with Java (Swing and Maven)
+🌐 I also enjoy front-end development using HTML, CSS, and some JavaScript
+🌱 Currently learning Spring Boot and databases (MySQL, PostgreSQL, SQL Server)
+💞️ Open to collaborating on Java or web front-end projects
+📫 Reach me at: milton.peluffoc@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I love retro games and indie game development
+📚 B2 in English, i enjoy learning the language and I’m constantly improving
+" }
