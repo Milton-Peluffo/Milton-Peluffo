@@ -1,8 +1,8 @@
 {"~~~~~~~~~~~~~~~ WELCOME TO MY PROFILE ~~~~~~~~~~~~~~~"}
 - 👋 Hi, I’m Milton Peluffo, i’m 22 years old
-- 👀 I’m mainly interested in backend development using Java
-- 💻 I build backend of web aplications using Java,PHP,Javascript
-- 🌐 I also enjoy front-end development using HTML, CSS.
+- 👀 I’m mainly interested in backend development
+- 💻 I build backend web aplications using Java,PHP,Javascript
+- 🌐 I also enjoy front-end development using HTML, CSS, JS
 - 🌱 Currently learning Spring Boot,and databases (MySQL, PostgreSQL, SQL Server)
 - 💞️ Open to collaborating on web front amd back-end projects
 - 📫 Reach me at: milton.peluffoc@gmail.com
