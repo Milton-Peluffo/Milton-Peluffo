@@ -14,14 +14,14 @@
 <hr>
 
 <pre>
-- 👋 I’m Milton Peluffo, i’m 22 years old
+- 👋 I’m Milton Peluffo, I’m 22 years old
 - 👀 I’m mainly interested in backend development
 - 💻 I build backend web aplications 
 - 🌐 I also enjoy front-end development using 
 - 🌱 Currently learning Spring Boot,and databases 
 - 🤝 Open to collaborating on web front amd back-end projects
 - 📫 Reach me at: milton.peluffoc@gmail.com
-- 📚 B1 in English, i enjoy learning the language and I’m constantly improving
+- 📚 B1 in English, I enjoy learning the language and I’m constantly improving
 </pre>
 <hr>
 
