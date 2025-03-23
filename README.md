@@ -14,7 +14,7 @@
 <hr>
 
 <pre>
-- 👋 I’m Milton Peluffo, I’m 22 years old
+- 👋 I’m Milton Peluffo, I’m 23 years old
 - 👀 I’m mainly interested in backend development
 - 💻 I build backend web aplications 
 - 🌐 I also enjoy front-end development using 
