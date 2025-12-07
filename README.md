@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Milton Peluffo</h1>
+<h3 align="center">💚 Android Developer | Kotlin & Jetpack Compose</h3>
 
-<!--
-**Milton-Peluffo/Milton-Peluffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Mobile developer focused on clean, modern and scalable Android apps using Kotlin and Jetpack Compose.
+</p>
 
-Here are some ideas to get you started:
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="400" height="400" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✏️ About Me
+- Android UI & mobile backend developer  
+- Kotlin + Jetpack Compose lover  
+- REST API integration (Retrofit)  
+- Local storage: Room, DataStore  
+- Unit testing (JUnit & Mockito)  
+- Clean architecture (MVVM + Repository)  
+- Firebase (auth, data, storage)  
+- Always learning and building nice interfaces  
+
+### English lover, level: **B1** ###
+---
+
+### 🛠️ Tech Stack
+**Android:** Kotlin · Jetpack Compose · Room · DataStore · Retrofit · Coroutines · Flow · Hilt · Navigation  
+**Backend Mobile:** REST APIs · Firebase · Local Caching  
+**Tools:** Android Studio · GitHub · Postman · Figma · JUnit · Mockito
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,firebase,postman,figma,java,obsidian" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://readme-stats.clckblog.space/api?username=Milton-Peluffo&show_icons=true&theme=nord&border_radius=10" />
+  <img height="160em" src="https://readme-stats.clckblog.space/api/top-langs/?username=Milton-Peluffo&layout=compact&theme=nord&border_radius=10" />
+</div>
