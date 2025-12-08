@@ -5,11 +5,9 @@
 Mobile developer focused on clean, modern and scalable Android apps using Kotlin and Jetpack Compose.
 </p>
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="400" height="400" />
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtuODhiMHB0emx0cXA4a2w0MjJwYXVrMGVuZjRydndwYnNmYWs0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B0ifefWijDGktTd683/giphy.gif" width="500" />
 
----
-
-## ✏️ About Me
+### ✏️ About Me
 - Android UI & mobile backend developer  
 - Kotlin + Jetpack Compose lover  
 - REST API integration (Retrofit)  
