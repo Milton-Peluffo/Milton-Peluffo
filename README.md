@@ -31,8 +31,15 @@ Mobile developer focused on clean, modern and scalable Android apps using Kotlin
 
 ---
 
-### 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://readme-stats.clckblog.space/api?username=Milton-Peluffo&show_icons=true&theme=nord&border_radius=10" />
-  <img height="160em" src="https://readme-stats.clckblog.space/api/top-langs/?username=Milton-Peluffo&layout=compact&theme=nord&border_radius=10" />
-</div>
+
+  ## GitHub Stats  
+
+</div>  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Milton-Peluffo&show_icons=true&theme=dark&hide_border=true&hide=issues,prs" 
+     alt="Milton's GitHub stats" 
+     height="115"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Peluffo&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="160"/>
+</div> 
