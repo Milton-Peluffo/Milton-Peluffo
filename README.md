@@ -8,22 +8,22 @@ Mobile developer focused on clean, modern and scalable Android apps using Kotlin
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtuODhiMHB0emx0cXA4a2w0MjJwYXVrMGVuZjRydndwYnNmYWs0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B0ifefWijDGktTd683/giphy.gif" width="500" />
 
 ### ✏️ About Me
-- Android UI & mobile backend developer  
-- Kotlin + Jetpack Compose lover  
-- REST API integration (Retrofit)  
-- Local storage: Room, DataStore  
-- Unit testing (JUnit & Mockito)  
-- Clean architecture (MVVM + Repository)  
-- Firebase (auth, data, storage)  
-- Always learning and building nice interfaces  
+• Android developer focused on building clean, robust and scalable applications  
+• Enjoy working across the full development flow, from polished interfaces to solid data handling  
+• Interested in writing testable and maintainable code  
+• Familiar with Clean Architecture (MVVM + Repository)  
+• Always learning and improving one feature at a time
 
-### English lover, level: **B1** ###
+### English level: *B1* (reading technical documentation comfortably) ###
 ---
 
 ### 🛠️ Tech Stack
-**Android:** Kotlin · Jetpack Compose · Room · DataStore · Retrofit · Coroutines · Flow · Hilt · Navigation  
-**Backend Mobile:** REST APIs · Firebase · Local Caching  
-**Tools:** Android Studio · GitHub · Postman · Figma · JUnit · Mockito
+**Android (core):** Kotlin · Jetpack Compose · Coroutines · Flow · Navigation  
+**Data & Networking:** Room · DataStore · Retrofit  
+**Architecture & DI:** Clean Architecture (MVVM + Repository) · Hilt  
+**Backend Services:** Firebase (Authentication · Firestore · Storage)  
+**Testing:** JUnit · Mockito  
+**Tools:** Android Studio · Git · GitHub · Postman · Figma  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,firebase,postman,figma,java,obsidian" />
@@ -35,7 +35,6 @@ Mobile developer focused on clean, modern and scalable Android apps using Kotlin
 
   ## GitHub Stats  
 
-</div>  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Milton-Peluffo&show_icons=true&theme=dark&hide_border=true&hide=issues,prs" 
      alt="Milton's GitHub stats" 
