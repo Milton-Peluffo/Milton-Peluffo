@@ -36,7 +36,7 @@ Mobile developer focused on clean, modern and scalable Android apps using Kotlin
   ## GitHub Stats  
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Milton-Peluffo&show_icons=true&theme=dark&hide_border=true&hide=issues,prs" 
+<img src="https://github-readme-stats.vercel.app/api?username=Milton-Peluffo&show_icons=true&theme=dark&hide_border=true&hide=issues,prs&include_all_commits=true" 
      alt="Milton's GitHub stats" 
      height="115"/>
   
