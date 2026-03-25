@@ -21,12 +21,11 @@ Mobile developer focused on clean, modern and scalable Android apps using Kotlin
 **Android (core):** Kotlin · Jetpack Compose · Coroutines · Flow · Navigation  
 **Data & Networking:** Room · DataStore · Retrofit  
 **Architecture & DI:** Clean Architecture (MVVM + Repository) · Hilt  
-**Backend Services:** Firebase (Authentication · Firestore · Storage)  
-**Testing:** JUnit · Mockito  
+**Backend Services:** Firebase (Auth · Firestore · Storage) · Supabase (Auth · OTP · Storage/Buckets · PostgREST)  
 **Tools:** Android Studio · Git · GitHub · Postman · Figma  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,firebase,postman,figma,java,obsidian" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,firebase,supabase,postman,figma" />
 </div>
 
 ---
