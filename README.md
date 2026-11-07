@@ -7,7 +7,7 @@ Mobile developer focused on clean, modern and scalable Android apps using Kotlin
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtuODhiMHB0emx0cXA4a2w0MjJwYXVrMGVuZjRydndwYnNmYWs0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B0ifefWijDGktTd683/giphy.gif" width="500" />
 
-### ✏️ About Me
+### About Me
 • Android developer focused on building clean, robust and scalable applications  
 • Enjoy working across the full development flow, from polished interfaces to solid data handling  
 • Interested in writing testable and maintainable code  
@@ -17,7 +17,7 @@ Mobile developer focused on clean, modern and scalable Android apps using Kotlin
 ### English level: *B1* (reading technical documentation comfortably) ###
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 **Android (core):** Kotlin · Jetpack Compose · Coroutines · Flow · Navigation  
 **Data & Networking:** Room · DataStore · Retrofit  
 **Architecture & DI:** Clean Architecture (MVVM + Repository) · Hilt  
